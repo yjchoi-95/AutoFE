@@ -1,2 +1,2 @@
 # AutoFE
- Experiments about auto feature engineering
+ Experiments on auto feature engineering
